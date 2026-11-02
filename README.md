@@ -35,7 +35,7 @@ This project uses [mpmath](https://mpmath.org/) at 60 decimal digits of working 
 ## Setup
 
 ```bash
-git clone https://github.com/linkedaven/Numerical-Integration-Methods.git
+git clone https://github.com/linkedaven/Numerical-Integration.git
 cd Numerical-Integration-Methods
 pip install -r requirements.txt
 ```
